@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 init1
 123
+dev
+=======
+wh-dev
+>>>>>>> wh-dev
